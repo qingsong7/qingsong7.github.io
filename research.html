@@ -1,0 +1,60 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Research | Your Name</title>
+  <meta name="description" content="Research page" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600&family=Cormorant+Garamond:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar" id="top">
+    <a class="brand" href="about.html">Your Name</a>
+    <button class="menu-btn" id="menuBtn" aria-label="Toggle navigation">Menu</button>
+    <nav class="nav" id="nav">
+      <a href="about.html">About</a>
+      <a href="research.html">Research</a>
+      <a href="teaching.html">Teaching</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="section" id="research">
+      <h3 class="research-group-title">Published</h3>
+      <div class="list" id="pubList">
+        <article class="paper" data-type="published">
+          <h3>Monetary Transmission with Wealth Heterogeneity</h3>
+          <p><strong>Journal of Monetary Economics</strong>, 2025</p>
+          <p>与 A. Author, B. Author 合作</p>
+          <p><a href="#">Paper</a> · <a href="#">Code</a></p>
+        </article>
+      </div>
+
+      <h3 class="research-group-title">Working Papers</h3>
+      <div class="list">
+        <article class="paper" data-type="working">
+          <h3>Liquidity, Labor Risk, and Aggregate Demand</h3>
+          <p>Working Paper, 2026</p>
+          <p>与 C. Author 合作</p>
+          <p><a href="#">Draft</a></p>
+        </article>
+        <article class="paper" data-type="working">
+          <h3>Fiscal Stabilization in Incomplete Markets</h3>
+          <p>Revise &amp; Resubmit</p>
+          <p>单独作者</p>
+          <p><a href="#">Slides</a></p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>(c) 2026 Your Name. Last updated: <span id="lastUpdated"></span></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
