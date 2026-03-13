@@ -8,12 +8,12 @@ lang: en
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am **Qingsong**, a **first-year PhD student in Finance at Zhongnan University of Economics and Law (ZUEL)**. This homepage presents my research, teaching, and contact information.
+Hello, I am **Qingsong**, a **first-year PhD student in Finance at Zhongnan University of Economics and Law (ZUEL)**.
 
 My research interests include:
 - Macroeconomics
 - Monetary policy
-- Heterogeneous-agent models
+- Heterogeneous-firm models
 - Firm dynamics and resource allocation
 
 Curriculum Vitae: [CV (PDF)](/cv/CSH-DIS-cvTemplate.pdf)
@@ -26,17 +26,8 @@ Curriculum Vitae: [CV (PDF)](/cv/CSH-DIS-cvTemplate.pdf)
 - `Paper Title 1`. Add the paper title, coauthors, publication status, and links here.
 - `Paper Title 2`. Add a short description, draft link, code repository, or slides here.
 
-### Research Projects
-- Monetary policy transmission and resource allocation
-- Firm heterogeneity and macroeconomic fluctuations
-- Applications of HANK / sequence-space methods
-
-<span class='anchor' id='teaching'></span>
-
-# 🎓 Teaching
-
-- Course information can be added here, including course title, semester, level, and syllabus links.
-- You can also list teaching assistantships, lectures, or workshops here.
+### Published Papers
+- [Lei Wenni et al. (2024), "Local Government Debt and Enterprise Markups: Theoretical Analysis and Empirical Evidence"](/pdf/%E9%9B%B7%E6%96%87%E5%A6%AE%20%E7%AD%89%20-%202024%20-%20%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E5%80%BA%E5%8A%A1%E4%B8%8E%E4%BC%81%E4%B8%9A%E4%BB%B7%E6%A0%BC%E5%8A%A0%E6%88%90%E2%80%94%E2%80%94%E7%90%86%E8%AE%BA%E5%88%86%E6%9E%90%E4%B8%8E%E7%BB%8F%E9%AA%8C%E4%BA%8B%E5%AE%9E.pdf)
 
 <span class='anchor' id='contact'></span>
 

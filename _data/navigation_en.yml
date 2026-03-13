@@ -6,8 +6,5 @@ main:
   - title: "Research"
     url: "/en/#research"
 
-  - title: "Teaching"
-    url: "/en/#teaching"
-
   - title: "Contact"
     url: "/en/#contact"

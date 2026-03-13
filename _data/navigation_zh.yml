@@ -6,8 +6,5 @@ main:
   - title: "研究"
     url: "/#research"
 
-  - title: "教学"
-    url: "/#teaching"
-
   - title: "联系方式"
     url: "/#contact"
