@@ -11,15 +11,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-你好，我是 **Qingsong**。这个主页已经按学术个人网站模板重构，用于展示我的研究、教学与联系方式。
+你好，我是 **Qingsong**，现为**中南财经政法大学（ZUEL）经济学博士一年级学生**。这个主页用于展示我的研究、教学与联系方式。
 
-当前页面采用 GitHub Pages / Jekyll 结构，后续你只需要编辑这一页和 `_config.yml`，就可以继续维护自己的主页内容。
-
-我的研究兴趣包括：
+我目前的研究兴趣主要集中在：
 - 宏观经济学
 - 货币政策
 - 异质性主体模型
 - 企业动态与资源配置
+
+简历下载：[CV（PDF）](/cv/CSH-DIS-cvTemplate.pdf)
 
 <span class='anchor' id='research'></span>
 
@@ -46,6 +46,7 @@ redirect_from:
 # 📫 联系方式
 
 - Email: [souseisq777@gmail.com](mailto:souseisq777@gmail.com)
+- Institution: 中南财经政法大学（ZUEL）
 - GitHub: [qingsong7](https://github.com/qingsong7)
 - Homepage: [qingsong7.github.io](https://qingsong7.github.io)
 
@@ -54,6 +55,5 @@ redirect_from:
 # 🔧 后续可补充内容
 
 - 个人照片或头像：替换 `images/android-chrome-512x512.png`
-- CV：把 PDF 放到仓库里并在此添加下载链接
 - Google Scholar / ORCID / LinkedIn：在 `_config.yml` 中补上对应链接
 - 代表论文：可按模板中的 `paper-box` 样式继续扩展

@@ -8,15 +8,15 @@ lang: en
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am **Qingsong**. This homepage has been rebuilt with an academic website template to present my research, teaching, and contact information.
-
-The site now uses a GitHub Pages / Jekyll structure. Going forward, you can maintain the homepage mainly by editing this page and `_config.yml`.
+Hello, I am **Qingsong**, a **first-year PhD student in Economics at Zhongnan University of Economics and Law (ZUEL)**. This homepage presents my research, teaching, and contact information.
 
 My research interests include:
 - Macroeconomics
 - Monetary policy
 - Heterogeneous-agent models
 - Firm dynamics and resource allocation
+
+Curriculum Vitae: [CV (PDF)](/cv/CSH-DIS-cvTemplate.pdf)
 
 <span class='anchor' id='research'></span>
 
@@ -43,6 +43,7 @@ My research interests include:
 # 📫 Contact
 
 - Email: [souseisq777@gmail.com](mailto:souseisq777@gmail.com)
+- Institution: Zhongnan University of Economics and Law (ZUEL)
 - GitHub: [qingsong7](https://github.com/qingsong7)
 - Homepage: [qingsong7.github.io](https://qingsong7.github.io)
 
@@ -51,6 +52,5 @@ My research interests include:
 # 🔧 Items To Add Later
 
 - Photo or portrait: replace `images/android-chrome-512x512.png`
-- CV: add the PDF to the repository and link it here
 - Google Scholar / ORCID / LinkedIn: add the corresponding links in `_config.yml`
 - Representative papers: continue expanding this page with the template's `paper-box` style
