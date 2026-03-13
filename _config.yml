@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Qingsong"
 description              : "Personal academic homepage"
+description_zh           : "个人学术主页"
 repository               : "qingsong7/qingsong7.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,10 +23,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Qingsong"
+  name_zh          : "宋清"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "PhD Student in Finance, Zhongnan University of Economics and Law"
+  bio_zh           : "中南财经政法大学金融学博士生"
   location         : "Wuhan, China"
+  location_zh      : "中国，武汉"
   employer         : "Zhongnan University of Economics and Law"
+  employer_zh      : "中南财经政法大学"
   pubmed           : 
   googlescholar    :
   email            : "souseisq777@gmail.com"
