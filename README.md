@@ -2,6 +2,8 @@
 
 这是我的个人主页仓库，现已迁移为基于 Jekyll 的 GitHub Pages 学术主页结构。
 
+个人网页地址：[https://qingsong7.github.io/](https://qingsong7.github.io/)
+
 ## 主要内容位置
 
 - 站点基础配置：`_config.yml`
