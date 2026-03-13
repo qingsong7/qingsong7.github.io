@@ -3,13 +3,18 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
+        {% assign nav_items = site.data.navigation_zh.main %}
+        {% if page.lang == "en" %}
+          {% assign nav_items = site.data.navigation_en.main %}
+        {% endif %}
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <a href="{{ '/' | relative_url }}" target="_self">
-              English
+            <a href="{% if page.lang == 'en' %}{{ '/' | relative_url }}{% else %}{{ '/en/' | relative_url }}{% endif %}" target="_self">
+              <img class="svg" src="{% if page.lang == 'en' %}/images/cn.svg{% else %}/images/en.svg{% endif %}" width="20pt">
+              {% if page.lang == "en" %}中文{% else %}English{% endif %}
             </a>
           </li>
-          {% for link in site.data.navigation.main %}
+          {% for link in nav_items %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>

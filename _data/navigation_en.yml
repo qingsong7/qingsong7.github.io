@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "About"
+    url: "/en/#about-me"
+
+  - title: "Research"
+    url: "/en/#research"
+
+  - title: "Teaching"
+    url: "/en/#teaching"
+
+  - title: "Contact"
+    url: "/en/#contact"

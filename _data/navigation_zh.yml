@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "简介"
+    url: "/#about-me"
+
+  - title: "研究"
+    url: "/#research"
+
+  - title: "教学"
+    url: "/#teaching"
+
+  - title: "联系方式"
+    url: "/#contact"
