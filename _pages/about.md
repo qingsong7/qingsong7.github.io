@@ -8,7 +8,7 @@ lang: en
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am **Qingsong**, a **first-year PhD student in Economics at Zhongnan University of Economics and Law (ZUEL)**. This homepage presents my research, teaching, and contact information.
+Hello, I am **Qingsong**, a **first-year PhD student in Finance at Zhongnan University of Economics and Law (ZUEL)**. This homepage presents my research, teaching, and contact information.
 
 My research interests include:
 - Macroeconomics
