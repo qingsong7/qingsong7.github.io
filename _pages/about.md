@@ -10,39 +10,39 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-你好，我是 **Qingsong**。这个主页已经按学术个人网站模板重构，用于展示我的研究、教学与联系方式。
+Hello, I am **Qingsong**. This homepage has been rebuilt with an academic website template to present my research, teaching, and contact information.
 
-当前页面采用 GitHub Pages / Jekyll 结构，后续你只需要编辑这一页和 `_config.yml`，就可以继续维护自己的主页内容。
+The site now uses a GitHub Pages / Jekyll structure. Going forward, you can maintain the homepage mainly by editing this page and `_config.yml`.
 
-我的研究兴趣包括：
-- 宏观经济学
-- 货币政策
-- 异质性主体模型
-- 企业动态与资源配置
+My research interests include:
+- Macroeconomics
+- Monetary policy
+- Heterogeneous-agent models
+- Firm dynamics and resource allocation
 
 <span class='anchor' id='research'></span>
 
-# 📝 研究
+# 📝 Research
 
 ### Working Papers
-- `Paper Title 1`. 在这里补充论文标题、合作者、期刊状态与论文链接。
-- `Paper Title 2`. 在这里补充摘要简介、初稿链接、代码仓库或 slides。
+- `Paper Title 1`. Add the paper title, coauthors, publication status, and links here.
+- `Paper Title 2`. Add a short description, draft link, code repository, or slides here.
 
 ### Research Projects
-- 货币政策传导与资源配置
-- 企业异质性与宏观波动
-- HANK / sequence-space 方法应用
+- Monetary policy transmission and resource allocation
+- Firm heterogeneity and macroeconomic fluctuations
+- Applications of HANK / sequence-space methods
 
 <span class='anchor' id='teaching'></span>
 
-# 🎓 教学
+# 🎓 Teaching
 
-- 课程信息可在此更新，例如课程名称、学期、教学层次与 syllabus 链接。
-- 如果你有 TA、讲授课程或工作坊，也可以继续按条目添加。
+- Course information can be added here, including course title, semester, level, and syllabus links.
+- You can also list teaching assistantships, lectures, or workshops here.
 
 <span class='anchor' id='contact'></span>
 
-# 📫 联系方式
+# 📫 Contact
 
 - Email: [souseisq777@gmail.com](mailto:souseisq777@gmail.com)
 - GitHub: [qingsong7](https://github.com/qingsong7)
@@ -50,9 +50,9 @@ redirect_from:
 
 <span class='anchor' id='updates'></span>
 
-# 🔧 后续可补充内容
+# 🔧 Items To Add Later
 
-- 个人照片或头像：替换 `images/android-chrome-512x512.png`
-- CV：把 PDF 放到仓库里并在此添加下载链接
-- Google Scholar / ORCID / LinkedIn：在 `_config.yml` 中补上对应链接
-- 代表论文：可按模板中的 `paper-box` 样式继续扩展
+- Photo or portrait: replace `images/android-chrome-512x512.png`
+- CV: add the PDF to the repository and link it here
+- Google Scholar / ORCID / LinkedIn: add the corresponding links in `_config.yml`
+- Representative papers: continue expanding this page with the template's `paper-box` style
